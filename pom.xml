@@ -23,7 +23,7 @@
     <dependency>
       <groupId>org.neo4j</groupId>
       <artifactId>neo4j-ha</artifactId>
-      <version>1.5-SNAPSHOT</version>
+      <version>1.8</version>
     </dependency>
     <dependency>
       <groupId>org.mockito</groupId>
